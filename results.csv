@@ -1,0 +1,9 @@
+model,val_accuracy,val_macro_f1
+Baseline SVM,0.4708,0.4536
+CNN,0.5333,0.4837
+LSTM,0.4583,0.4519
+CNN + augmentation,0.6458,0.6357
+LSTM + augmentation,0.5292,0.5218
+CNN + aug + masking,0.6625,0.6589
+CNN + aug + CMN,0.6708,0.6645
+CNN + aug + CMN + masking,0.6583,0.6559

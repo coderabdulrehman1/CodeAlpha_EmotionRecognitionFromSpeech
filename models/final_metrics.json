@@ -1,0 +1,1 @@
+{"models": 3, "use_cmn": true, "use_mask": false, "config": {"lr": 0.001, "dropout": 0.4, "width": 32}, "val_accuracy": 0.6958, "test_accuracy": 0.6375, "test_macro_f1": 0.6156}

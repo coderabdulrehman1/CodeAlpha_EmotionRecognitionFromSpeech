@@ -1,0 +1,29 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded dataset and generated feature arrays
+/data/ravdess/
+/features/*.npy
+
+# Gradio sessions and flagged uploads
+.gradio/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1 @@
+{"kind": "cnn", "use_cmn": true, "use_mask": false, "norm_file": "norm_cmn.npz", "model_files": ["final_1.keras", "final_2.keras", "final_3.keras"], "config": {"lr": 0.001, "dropout": 0.4, "width": 32}}
